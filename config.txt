@@ -1,0 +1,3 @@
+LICENSE_KEY=XXX000
+MAX_BALANCE=400
+NOTICE=Ki Khobor Tomader? Income Hocche To?
