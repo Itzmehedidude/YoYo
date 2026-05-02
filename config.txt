@@ -1,4 +1,4 @@
 LICENSE_KEY=XXX000
 MAX_BALANCE=400
-NOTICE=Ki Khobor Tomader? Income Hocche To?
+NOTICE=2 ta account er besi noy 1 ta hole valo hoy
 DEVICES=Redmi 9,Redmi Note 10,Redmi Note 11,Redmi Note 12,Redmi K50,Redmi K60,Poco X3,Poco X4,Poco F3,Poco F4,Realme C11,Realme C15,Realme C17,Realme C21,Realme C25,Realme 7,Realme 8,Realme 9,Samsung A12,Samsung A13,Samsung A14,Samsung A22,Samsung A23,Samsung A32,Samsung A33,Samsung A52,Samsung A53,Samsung M21,Samsung M31,Samsung M32,OnePlus Nord,OnePlus Nord 2,OnePlus 8,OnePlus 8T,OnePlus 9,OnePlus 9R,Xiaomi Mi 10,Xiaomi Mi 10T,Xiaomi Mi 11,Xiaomi Mi 11X,Oppo A15,Oppo A16,Oppo A17,Oppo A54,Oppo A55,Oppo F19,Oppo F21,Vivo Y20,Vivo Y21,Vivo Y22,Vivo Y33
